@@ -1,0 +1,176 @@
+/* Global Styles */
+body {
+    font-family: 'Arial', sans-serif;
+    line-height: 1.6;
+    background-color: #f8f9fa;
+    color: #333;
+    margin: 0;
+    padding: 0;
+}
+
+/* Container */
+.container {
+    width: 90%;
+    margin: 0 auto;
+}
+
+/* Navbar */
+.navbar {
+    background-color: #1E3A8A;
+    color: #fff;
+    padding: 15px 0;
+    text-align: center;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.navbar h1 {
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.navbar ul {
+    list-style-type: none;
+    display: flex;
+    justify-content: center;
+    margin-top: 10px;
+}
+
+.navbar ul li {
+    margin: 0 15px;
+}
+
+.navbar ul li a {
+    color: #fff;
+    text-decoration: none;
+    font-size: 18px;
+}
+
+.navbar ul li a:hover {
+    text-decoration: underline;
+}
+
+/* Section Styles */
+.section {
+    padding: 60px 0;
+    text-align: center;
+}
+
+.skills-section, .projects-section, .contact-section {
+    background-color: #f0f4f8;
+}
+
+h2 {
+    font-size: 30px;
+    margin-bottom: 20px;
+    color: #1E3A8A;
+}
+
+.profile-img {
+    border-radius: 50%;
+    width: 150px;
+    height: 150px;
+    margin-bottom: 20px;
+}
+
+/* Education & Projects */
+.education-list div, .projects-section div {
+    margin-bottom: 20px;
+    text-align: left;
+}
+
+/* Footer */
+.footer {
+    background-color: #1E3A8A;
+    color: #fff;
+    padding: 15px 0;
+    text-align: center;
+    margin-top: 40px;
+}
+/* Global Styles */
+body {
+    font-family: 'Arial', sans-serif;
+    line-height: 1.6;
+    background-color: #f8f9fa;
+    color: #333;
+    margin: 0;
+    padding: 0;
+}
+
+/* Container */
+.container {
+    width: 90%;
+    margin: 0 auto;
+}
+
+/* Navbar */
+.navbar {
+    background-color: #1E3A8A;
+    color: #fff;
+    padding: 15px 0;
+    text-align: center;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.navbar h1 {
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.navbar ul {
+    list-style-type: none;
+    display: flex;
+    justify-content: center;
+    margin-top: 10px;
+}
+
+.navbar ul li {
+    margin: 0 15px;
+}
+
+.navbar ul li a {
+    color: #fff;
+    text-decoration: none;
+    font-size: 18px;
+}
+
+.navbar ul li a:hover {
+    text-decoration: underline;
+}
+
+/* Section Styles */
+.section {
+    padding: 60px 0;
+    text-align: center;
+}
+
+.skills-section, .projects-section, .contact-section {
+    background-color: #f0f4f8;
+}
+
+h2 {
+    font-size: 30px;
+    margin-bottom: 20px;
+    color: #1E3A8A;
+}
+
+.profile-img {
+    border-radius: 50%;
+    width: 150px;
+    height: 150px;
+    margin-bottom: 20px;
+}
+
+/* Education & Projects */
+.education-list div, .projects-section div {
+    margin-bottom: 20px;
+    text-align: left;
+}
+
+/* Footer */
+.footer {
+    background-color: #1E3A8A;
+    color: #fff;
+    padding: 15px 0;
+    text-align: center;
+    margin-top: 40px;
+}
